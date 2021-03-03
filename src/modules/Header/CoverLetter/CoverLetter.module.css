@@ -1,0 +1,7 @@
+.headerAbout{
+    grid-column: 2/3;
+}
+
+.contacts{
+    text-align: right;
+}

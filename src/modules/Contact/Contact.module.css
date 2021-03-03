@@ -1,0 +1,41 @@
+.contact{
+    max-width: 900px;
+    margin: 0 auto;
+    
+}
+
+.text{
+    font-size: 35px;
+}
+
+input,textarea{
+    margin-top: 20px;
+}
+
+
+
+input[type=text]{
+    width: 40%;
+    height: 30px;
+}
+
+input[type=email]{
+    height: 30px;
+}
+
+input[type=submit]{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 100px;
+    border: 2px white solid;
+}
+
+input[type=submit]:hover{
+    background-color: inherit;
+    color: black;
+    border: 2px orangered solid;
+}
+

@@ -1,0 +1,45 @@
+ .navBar{
+    width: 80%;
+    height: 60px;
+    background-color: grey;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    z-index: 1001;
+}
+
+.btn{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+} 
+
+.btn span{
+    position: absolute;
+    top: 29px;
+    width: 30px;
+    background-color: white;
+    height: 2px;
+    z-index: 10;
+}
+
+ .btn:before{
+    position: absolute;
+    content: '';
+    top: 20px;
+    width: 30px;
+    background-color: white;
+    height: 2px;
+ }
+
+ .btn:after{
+    position: absolute;
+    content: '';
+    bottom: 20px;
+    width: 30px;
+    background-color: white;
+    height: 2px;
+}
+ 
+

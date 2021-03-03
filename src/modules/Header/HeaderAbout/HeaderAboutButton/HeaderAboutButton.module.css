@@ -1,0 +1,21 @@
+.button{
+    display: inline-block;
+      color: #fff;
+      background: linear-gradient(to bottom, #000000, #b8b8b8);
+      font-size: 18px;
+      font-weight: 500;
+      padding: 12px 26px;
+      border-radius: 100px;
+      /* Прозрачная граница, предназначенная для вывода варианта той же кнопки с обводкой */
+      border: 3px solid transparent;
+      text-decoration: none;
+      background-origin: border-box;
+      cursor: pointer;
+      margin-top: 50px;
+}
+
+.button:hover{
+    background: transparent;
+    color: #222;
+    border-color: #000000;
+} 

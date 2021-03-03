@@ -1,0 +1,37 @@
+.SocialMedia{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    grid-row: 1/3;
+    grid-column: 4/4;
+    /* height: 50%; */
+}
+
+
+
+.SocialMedia > div:hover{
+    writing-mode: horizontal-tb;
+}
+
+/* .SocialMedia :last-child{
+    margin-top: 0px;
+} */
+.SocialMedia > div {
+    height: 30px;
+    width: 20px;
+}
+
+.SocialMedia > div > a{
+    writing-mode: tb-rl;
+    transform:rotate(180deg);
+    text-decoration: none;
+    color: rgb(117, 117, 117);
+    font-size: 20px;
+    transform:translate3d(0,0,0);
+    transition:transform ease-out 200ms;
+
+}
+
+.SocialMedia > div > a:hover{
+    color: black;
+}

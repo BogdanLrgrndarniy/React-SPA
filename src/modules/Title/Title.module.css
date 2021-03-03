@@ -1,0 +1,24 @@
+h2{
+    display: flex;
+    align-items: flex-end;
+    font-size: 25px;
+    line-height: 28px;
+    color: rgb(204, 200, 200);
+}
+
+.line{
+    width: 60px;
+    height: 4px;
+    background-color: orangered;
+    margin-left: 30px;
+}
+
+@media(max-width:1020px){
+    .line{
+        width: 30px;
+        height: 4px;
+        background-color: orangered;
+        margin-left: 15px;
+    }
+    
+}

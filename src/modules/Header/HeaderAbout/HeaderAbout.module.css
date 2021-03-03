@@ -1,0 +1,48 @@
+.text_Header{
+    grid-column: 2/3;
+    margin-top: 50px;
+
+}
+@media(max-width:1020px){
+    .text_Header{
+        margin-top: 0px;
+    }
+}
+
+.text_Header > p {
+    font-size: 24px;
+    max-width: 500px;
+}
+@media(max-width:1020px){
+    .text_Header > p {
+        font-size: 18px;
+        max-width: 500px;
+    }
+}
+
+.title{
+    font-size: 50px;
+}
+@media(max-width:1020px){
+    .title{
+        font-size: 30px;
+    }
+}
+
+.text_Header{
+    max-width: 635px;
+}
+
+
+.img{
+    background-image: url('./male-it-specialist-working-on-laptop-at-desk-vector-illustration_107173-13264.jpg');
+    grid-row: 1/3;
+    grid-column: 2/3;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 600px;
+    width: 70%;
+    position: absolute;
+    bottom: 0;
+    margin-left: 106%;
+    }
