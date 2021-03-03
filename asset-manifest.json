@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-SPA/static/css/main.65525675.chunk.css",
+    "main.js": "/React-SPA/static/js/main.b0d9c7cd.chunk.js",
+    "main.js.map": "/React-SPA/static/js/main.b0d9c7cd.chunk.js.map",
+    "runtime-main.js": "/React-SPA/static/js/runtime-main.c2b41025.js",
+    "runtime-main.js.map": "/React-SPA/static/js/runtime-main.c2b41025.js.map",
+    "static/js/2.9f3ba2eb.chunk.js": "/React-SPA/static/js/2.9f3ba2eb.chunk.js",
+    "static/js/2.9f3ba2eb.chunk.js.map": "/React-SPA/static/js/2.9f3ba2eb.chunk.js.map",
+    "static/js/3.1c17fb2b.chunk.js": "/React-SPA/static/js/3.1c17fb2b.chunk.js",
+    "static/js/3.1c17fb2b.chunk.js.map": "/React-SPA/static/js/3.1c17fb2b.chunk.js.map",
+    "index.html": "/React-SPA/index.html",
+    "static/css/main.65525675.chunk.css.map": "/React-SPA/static/css/main.65525675.chunk.css.map",
+    "static/js/2.9f3ba2eb.chunk.js.LICENSE.txt": "/React-SPA/static/js/2.9f3ba2eb.chunk.js.LICENSE.txt",
+    "static/media/1.5fe82b76.png": "/React-SPA/static/media/1.5fe82b76.png",
+    "static/media/2.cdf429e4.png": "/React-SPA/static/media/2.cdf429e4.png",
+    "static/media/3.6612f49e.png": "/React-SPA/static/media/3.6612f49e.png",
+    "static/media/4.ec086ad7.png": "/React-SPA/static/media/4.ec086ad7.png",
+    "static/media/5.db394ca8.png": "/React-SPA/static/media/5.db394ca8.png",
+    "static/media/coverLetter.fa0f8213.pdf": "/React-SPA/static/media/coverLetter.fa0f8213.pdf",
+    "static/media/HeaderAbout.module.css": "/React-SPA/static/media/male-it-specialist-working-on-laptop-at-desk-vector-illustration_107173-13264.7e352369.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b41025.js",
+    "static/js/2.9f3ba2eb.chunk.js",
+    "static/css/main.65525675.chunk.css",
+    "static/js/main.b0d9c7cd.chunk.js"
+  ]
+}
